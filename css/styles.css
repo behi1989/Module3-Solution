@@ -1,0 +1,52 @@
+header .navbar {
+    background-color: #999;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.navbar-collapse .nav {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    margin: 0 -15px;
+}
+
+.navbar-collapse .nav li a {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    border-bottom: 1px solid #000;
+}
+
+.navbar-collapse .nav li:nth-child(3) a {
+    border-bottom: none;
+}
+
+.card {
+    background-color: #999;
+    padding: 10px;
+    margin: 0 0 20px;
+}
+
+h2 {
+    color: #000;
+    margin: 70px 0 20px;
+}
+
+.card p:nth-child(1) {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    margin: 0 0 10px;
+}
+
+.card p:nth-child(2) {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+}
